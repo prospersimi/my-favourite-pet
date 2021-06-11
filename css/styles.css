@@ -16,3 +16,13 @@ h1 {
     font-size: 20px;
     line-height: 30px;
   }
+  body {
+    background-color: blanchedalmond;
+  }
+  img {
+    height: 300px;
+    width: 32%;
+    background-color: black;
+    border-style: groove;
+
+  }
