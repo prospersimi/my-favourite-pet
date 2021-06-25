@@ -1,5 +1,5 @@
 h1 {
-    color: blue;
+    color: midnightblue;
     text-align: center;
   }
   
@@ -17,12 +17,67 @@ h1 {
     line-height: 30px;
   }
   body {
-    background-color: blanchedalmond;
+    background-color: azure;
   }
   img {
     height: 300px;
     width: 32%;
     background-color: black;
     border-style: groove;
-
+    border-color: black;
   }
+  .sharp{
+    font-size: large;
+    font-style: inherit;
+  }
+  .about{
+    background-attachment: fixed;
+    background-color: beige;
+    width: 100%;
+    font-style: italic;
+    font-weight: bold;
+  }
+  span {
+    float: inline-end;
+    font-style: italic;
+    font-family: fantasy;
+    color: cornflowerblue;
+    display: block;
+  }
+.con{
+  background-color: chocolate;
+  background-size: auto;
+  background-blend-mode: saturation;
+  border: 3px solid red;
+  padding: 6px;
+}
+.bull {
+  float: left;
+  height: 150px;
+  width: 25%;
+}
+.green {
+  color: chartreuse;
+  float: none;
+  
+}
+#myfav{
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 3px solid rgb(20, 13, 13);
+  height: 15cm;
+  width: 100%;
+}
+.want {
+  text-align: left;
+  padding: 20px;
+  font-family: cursive;
+  font-style: italic;
+}
+.dark {
+  color: white;
+  background-color: black;
+}
+.former {
+  display: none;
+}
